@@ -15,6 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Libraries For Machine Learning](https://medium.com/mlearning-ai/python-libraries-for-machine-learning-d1055d5ef125?source=rss-470c0514f83f------2)
+- [Machine Learning Life Cycle](https://medium.com/mlearning-ai/machine-learning-life-cycle-49c1495fa2bc?source=rss-470c0514f83f------2)
+- [Machine Learning In HealthCare](https://medium.com/mlearning-ai/machine-learning-in-healthcare-96fc10103697?source=rss-470c0514f83f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
