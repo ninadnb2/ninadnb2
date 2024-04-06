@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Coroutines](https://medium.com/@ninadbhase/kotlin-coroutines-02c030388d40?source=rss-470c0514f83f------2)
 - [Flutter for beginners](https://medium.com/@ninadbhase/flutter-for-beginners-25159fdffc83?source=rss-470c0514f83f------2)
 - [Python Libraries For Machine Learning](https://medium.com/@ninadbhase/python-libraries-for-machine-learning-d1055d5ef125?source=rss-470c0514f83f------2)
 - [Machine Learning Life Cycle](https://medium.com/@ninadbhase/machine-learning-life-cycle-49c1495fa2bc?source=rss-470c0514f83f------2)
-- [Machine Learning In HealthCare](https://medium.com/@ninadbhase/machine-learning-in-healthcare-96fc10103697?source=rss-470c0514f83f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
