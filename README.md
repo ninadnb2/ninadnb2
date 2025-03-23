@@ -15,8 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ViewModel Internal Working](https://medium.com/@ninadbhase/viewmodel-working-c6684da19496?source=rss-470c0514f83f------2)
-- [Kotlin Coroutines](https://medium.com/@ninadbhase/kotlin-coroutines-02c030388d40?source=rss-470c0514f83f------2)
+- [ViewModel Internal Working](https://proandroiddev.com/viewmodel-working-c6684da19496?source=rss-470c0514f83f------2)
+- [Kotlin Coroutines](https://proandroiddev.com/kotlin-coroutines-02c030388d40?source=rss-470c0514f83f------2)
 - [Flutter for beginners](https://medium.com/@ninadbhase/flutter-for-beginners-25159fdffc83?source=rss-470c0514f83f------2)
 - [Python Libraries For Machine Learning](https://medium.com/@ninadbhase/python-libraries-for-machine-learning-d1055d5ef125?source=rss-470c0514f83f------2)
 <!-- BLOG-POST-LIST:END -->
