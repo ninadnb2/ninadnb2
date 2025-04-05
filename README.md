@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Coroutine Scopes: CoroutineScope vs SupervisorScope](https://proandroiddev.com/kotlin-coroutine-scopes-coroutinescope-vs-supervisorscope-5ce334801ae0?source=rss-470c0514f83f------2)
 - [Routines to Coroutines: How Kotlin Revolutionized Asynchronous Programming](https://proandroiddev.com/routines-to-coroutines-how-kotlin-revolutionized-asynchronous-programming-420df96b59f7?source=rss-470c0514f83f------2)
 - [Understanding Kotlin Suspend Functions Internally](https://proandroiddev.com/understanding-kotlin-suspend-functions-internally-eabbc723d7fd?source=rss-470c0514f83f------2)
 - [Why Use _variableName in ViewModel?](https://medium.com/@ninadbhase/why-use-variablename-in-viewmodel-f44b3bf1c4d7?source=rss-470c0514f83f------2)
-- [ViewModel Internal Working](https://proandroiddev.com/viewmodel-working-c6684da19496?source=rss-470c0514f83f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
