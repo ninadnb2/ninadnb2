@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Coroutine Dispatchers: The Guide to Thread Management](https://medium.com/@ninadbhase/kotlin-coroutine-dispatchers-the-guide-to-thread-management-b755fa6b6b2e?source=rss-470c0514f83f------2)
+- [Kotlin Coroutine Dispatchers: The Guide to Thread Management](https://proandroiddev.com/kotlin-coroutine-dispatchers-the-guide-to-thread-management-b755fa6b6b2e?source=rss-470c0514f83f------2)
 - [Kotlin Coroutine Scopes: CoroutineScope vs SupervisorScope](https://proandroiddev.com/kotlin-coroutine-scopes-coroutinescope-vs-supervisorscope-5ce334801ae0?source=rss-470c0514f83f------2)
 - [Routines to Coroutines: How Kotlin Revolutionized Asynchronous Programming](https://proandroiddev.com/routines-to-coroutines-how-kotlin-revolutionized-asynchronous-programming-420df96b59f7?source=rss-470c0514f83f------2)
 - [Understanding Kotlin Suspend Functions Internally](https://proandroiddev.com/understanding-kotlin-suspend-functions-internally-eabbc723d7fd?source=rss-470c0514f83f------2)
