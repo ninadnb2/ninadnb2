@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Stories Design &lpar;Mobile System Design&rpar;](https://proandroiddev.com/instagram-stories-design-mobile-system-design-e897dc2294ca?source=rss-470c0514f83f------2)
 - [Mobile System Design — WhatsApp Chat Module](https://proandroiddev.com/mobile-system-design-whatsapp-chat-module-0e5970acf6eb?source=rss-470c0514f83f------2)
 - [Kotlin Coroutine Dispatchers: The Guide to Thread Management](https://proandroiddev.com/kotlin-coroutine-dispatchers-the-guide-to-thread-management-b755fa6b6b2e?source=rss-470c0514f83f------2)
 - [Kotlin Coroutine Scopes: CoroutineScope vs SupervisorScope](https://proandroiddev.com/kotlin-coroutine-scopes-coroutinescope-vs-supervisorscope-5ce334801ae0?source=rss-470c0514f83f------2)
-- [Routines to Coroutines: How Kotlin Revolutionized Asynchronous Programming](https://proandroiddev.com/routines-to-coroutines-how-kotlin-revolutionized-asynchronous-programming-420df96b59f7?source=rss-470c0514f83f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
