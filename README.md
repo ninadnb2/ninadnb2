@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Android Activity Launch Modes &amp; Lifecycle: A Interview Guide](https://medium.com/mobile-bytes/android-activity-launch-modes-lifecycle-a-interview-guide-8d589b88321d?source=rss-470c0514f83f------2)
 - [Understanding the Android Gradle Build Process](https://medium.com/mobile-bytes/understanding-the-android-gradle-build-process-61805940ceaa?source=rss-470c0514f83f------2)
-- [Clean Architecture in Android, Explained Without the Jargon](https://medium.com/@ninadbhase/clean-architecture-in-android-explained-without-the-jargon-4d37fc590299?source=rss-470c0514f83f------2)
+- [Clean Architecture in Android, Explained Without the Jargon](https://medium.com/mobile-bytes/clean-architecture-in-android-explained-without-the-jargon-4d37fc590299?source=rss-470c0514f83f------2)
 - [Designing a Location-Based Activity Tracking System — Android System Design Interview](https://medium.com/@ninadbhase/designing-a-location-based-activity-tracking-system-android-system-design-interview-66dd98cec7c0?source=rss-470c0514f83f------2)
 <!-- BLOG-POST-LIST:END -->
 
